@@ -167,6 +167,13 @@ html[dir="ltr"] .hero-meta { text-align: left; }
     gap: 20px;
 }
 
+.hero-desc {
+    max-width: 850px;
+    color: #E2E8F0; /* Clean comfortable read contrast text */
+    font-size: 1.1rem;
+    text-align: justify;
+}
+
 .social-links {
     display: flex;
     gap: 16px;
