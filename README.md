@@ -1,4 +1,4 @@
-# Pardis Nasimian
+# Pardis Nasimian - Personal Portfolio
 ### Computer Engineering Student & Web Developer
 Front-End Developer | WordPress Specialist | IT Instructor
 
