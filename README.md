@@ -1,4 +1,3 @@
-# pardisnasimian.github.io
 # Pardis Nasimian - Personal Portfolio
 
 Welcome to my personal portfolio website.
