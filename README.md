@@ -5,38 +5,47 @@ Front-End Developer | WordPress Specialist | IT Instructor
 ---
 
 ## About Me
-Computer Engineering student with hands-on experience in developing corporate and e-commerce websites. Skilled in WordPress, HTML, CSS, and JavaScript, with foundational knowledge of PHP. Experienced in IT instruction and digital marketing strategies.
+Computer Engineering student with hands-on experience in developing corporate and e-commerce websites. Passionate about responsive design, user experience, and building clean, maintainable interfaces. Experienced in IT instruction and digital marketing strategies.
 
 ---
 
-## Technical Skills
+## Skills & Knowledge
+
+### Technical Skills
 * **Front-End**: HTML5, CSS3, JavaScript (ES6+), Responsive Design
-* **CMS & E-Commerce:** WordPress, Elementor, WooCommerce
-* **Backend:** Introductory PHP
-* **Core Concepts:** UI/UX Basics, SEO Basics, Digital Marketing Foundations
+* **CMS & E-Commerce**: WordPress, Elementor, WooCommerce
+* **Backend**: Introductory PHP
+
+### Additional Knowledge
+* **SEO & Digital Marketing**: Foundational knowledge of search engine optimization and marketing strategies.
+* **Soft Skills**: Strong team collaboration and structured problem-solving abilities.
+* **Instructional**: Experienced in teaching WordPress, HTML, and ICDL programs.
 
 ---
 
 ## Professional Experience
 
-### Web Developer & Digital Marketing Team Member
-**Mohtavazoom** | May 2022 - Present
-* Developed corporate and e-commerce websites using WordPress.
-* Implemented responsive user interfaces and executed foundational SEO strategies.
+### Web Designer
+**Mohtavazoom Team** | May 2022 - Present
+* Developing responsive WordPress websites for various business clients.
+* Improving website performance, user experience, and SEO baseline.
 
 ### Technical Instructor
-**Farhangian & Alton Institutes** | 2025 - Present
-* Delivered courses in WordPress Website Design, HTML, and adult ICDL programs.
+**Farhikhtegan & Alton Institutes** | 2025 - Present
+* Teaching WordPress web design, HTML fundamentals, and adult ICDL courses.
+* Guiding students through the full lifecycle of website creation.
 
 ---
 
 ## Featured Projects
-* **Saraye Hashemi:** E-commerce platform developed for commercial sales and distribution.
-* **Bohlul Pump:** Corporate website detailing industrial machinery catalogs.
-* **Dr. Esmailzadeh Pharmacy:** E-commerce platform featuring automated product catalog imports.
-* **Mohtavazoom:** Corporate portal highlighting digital marketing portfolios.
-* **Aseman Choob:** Showcase interface for carpentry and manufacturing designs.
-* **Task Manager Web App:** JavaScript-based dashboard focused on dynamic task workflows.
+* **Saraye Hashemi:** E-commerce platform developed with WordPress and WooCommerce.
+* **Pipe Iran:** WordPress theme development and optimization.
+* **Sina Teb:** Custom WordPress theme updates and performance improvements.
+* **Task Manager:** Web application for task workflow management (HTML/CSS/JS).
+* **Dr. Esmailzadeh Pharmacy:** E-commerce pharmacy website with product management.
+* **Bohlul Pump:** Corporate website showcasing industrial products.
+* **Aseman Choob:** Industrial showcase for woodworking designs.
+* **Mohtavazoom:** Corporate digital marketing and portfolio portal.
 
 ---
 
@@ -48,5 +57,5 @@ Computer Engineering student with hands-on experience in developing corporate an
 ## Contact
 * **Phone:** 09057826774
 * **Email:** pardis.nasim1381@gmail.com
-* **LinkedIn:** linkedin.com/in/pardisnasimian
+* **LinkedIn:** linkedin.com/in/pardis-nasimian
 * **GitHub:** github.com/pardis-nasimian
